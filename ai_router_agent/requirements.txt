@@ -1,0 +1,3 @@
+fastapi # To expose REST API to call ai-email-agent
+uvicorn # It is a web server
+requests # To call Ollama REST API (http://localhost:11434)

@@ -1,0 +1,5 @@
+python-dotenv # To load .env file
+requests # To call Ollama REST API (http://localhost:11434)
+apscheduler # To schedule email sent
+fastapi # To expose REST API to call ai-email-agent
+uvicorn # It is a web server
